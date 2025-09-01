@@ -14,7 +14,7 @@ Follow these steps to set up and run the example project:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/example.git
+    git clone https://github.com/caitlintorres/readme-enhancer.git
     cd example
     ```
 
@@ -35,11 +35,3 @@ Refer to the source code and comments for detailed explanations of each componen
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the [LICENSE NAME] License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to update this README with more information about your specific use case.
